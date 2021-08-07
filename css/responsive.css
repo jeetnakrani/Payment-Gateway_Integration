@@ -1,0 +1,55 @@
+@media only screen and (max-width:700px) {
+
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .masthead {
+    height: 100vh;
+    padding: 0;
+  }
+  
+  .rightNav {
+    text-align: center;
+  }
+  .donate {
+    display: block;
+    font-size: large;
+  }
+  .h-nav-resp {
+    height: 72px;
+  }
+  .v-class-resp {
+    opacity: 0;
+  }
+  .box-main {
+    flex-direction: column-reverse;
+    max-width: 100%;
+    font-family: "Playfair Display";
+  }
+  .section {
+    flex-direction: column-reverse;
+  }
+  .text-small {
+    text-align: center;
+  }
+  .text-big {
+    text-align: center;
+    font-family: "Playfair Display", serif;
+  }
+  .buttons {
+    text-align: right;
+   
+  }
+  .paras {
+    padding: 0px;
+  }
+}
