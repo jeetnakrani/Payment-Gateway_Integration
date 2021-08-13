@@ -7,11 +7,16 @@ Payment Gateway Integration for Donating specific amount of Money directly to th
 #Languages Used
 
 Frontend :
+
 HTML
+
 CSS
+
 JAVA SCRIPT
 
+
 Backend :
+
 Razorpay
 
 Website :
